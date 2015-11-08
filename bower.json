@@ -1,0 +1,12 @@
+{
+  "name": "mypackagetest",
+  "version": "1.1.5",
+  "authors": [
+    "AlexeiVainshtein <alexeiv@jfrog.com>"
+  ],
+  "description": "This is my test package",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT"
+}
